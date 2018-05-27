@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# text
-just try
+# vimrc
+my vimrc
 =======
-This is one simple project
 >>>>>>> 1
